@@ -2,8 +2,8 @@
 <br>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
 -->
-[![kingstar0118's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
+[![kingstar0118's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/kingstar0118/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kingstar0118&layout=compact)](https://github.com/kingstar0118/github-readme-stats)
 <!--
 **kingstar0118/kingstar0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
