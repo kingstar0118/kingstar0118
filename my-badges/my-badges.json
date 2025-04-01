@@ -1,0 +1,177 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/kingstar0118/hackRSC/commit/aa281f9d9c65eca65049115de62f4349ad59607a\"><strong>a</strong>a281f9d9c65eca65049115de62f4349ad59607a</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/kingstar0118/hackRSC/commit/ab7c5af34b1ef16856859adfaacee2752387b92c\"><strong>ab</strong>7c5af34b1ef16856859adfaacee2752387b92c</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/kingstar0118/MERNGraphqlChat/commit/abc4831f7c0cc6e15c811180d6ab860ac028e1c8\"><strong>abc</strong>4831f7c0cc6e15c811180d6ab860ac028e1c8</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/8ece8c8a9a365fb65aac999c5d700a90d0d07eff\">8ece8c8</a>: chore: update metadata",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/2c282549df1a115a9d105beec5ef6576f7f36d7b\">2c28254</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/532e6de42025a597449fdf80d456cf24512216b1\">532e6de</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/d2fe0ba0f7197fdee037fab6b184276a7c61057b\">d2fe0ba</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/0ae05d33c580adadc1f3f5c19a90aacb2a15a063\">0ae05d3</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/994f8d80bfcb1d0810d915a5213670743d5c3d22\">994f8d8</a>\n- <a href=\"https://github.com/kingstar0118/MERNGraphqlChat/commit/2e2348de36297fa0ee94e1841400fb4385960b6d\">2e2348d</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/kingstar0118/MERNRoadMap/commit/df0dd7dead27e1af988b48eb17444c7f054c6a89\">df0dd7<strong>dead</strong>27e1af988b48eb17444c7f054c6a89</a>\n- <a href=\"https://github.com/kingstar0118/MERNELearning/commit/df0dd7dead27e1af988b48eb17444c7f054c6a89\">df0dd7<strong>dead</strong>27e1af988b48eb17444c7f054c6a89</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/EmojiCSS/commit/4fd2398f357efdcb26f013cb4ece30d31b4ee8dc\">4fd2398</a>\n- <a href=\"https://github.com/kingstar0118/EmojiCSS/commit/6ee4e1514dc4cdabab53f32f9753162913c91290\">6ee4e15</a>\n- <a href=\"https://github.com/kingstar0118/EmojiCSS/commit/4f5091d783e7f38b25ab332ac2f9547c3f2b1f44\">4f5091d</a>\n- <a href=\"https://github.com/kingstar0118/MERNGraphqlChat/commit/22e228819d06091b9a6f18df5ad2796c425142a6\">22e2288</a>\n- <a href=\"https://github.com/kingstar0118/MERNGraphqlChat/commit/ca0aad7555b2023cfd64d7c1d606899047e70145\">ca0aad7</a>\n- <a href=\"https://github.com/kingstar0118/MERNGraphqlChat/commit/abc4831f7c0cc6e15c811180d6ab860ac028e1c8\">abc4831</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AISuperVideoResolution/commit/32f92c51cdf40547df2815663833cb341ada0a6e\">32f92c5</a>\n- <a href=\"https://github.com/kingstar0118/AISuperVideoResolution/commit/c318dc92488683c192a96c33a448c55eeb240b62\">c318dc9</a>\n- <a href=\"https://github.com/kingstar0118/AISuperVideoResolution/commit/cd77d343b0691214616b7962cb125d7b391ab318\">cd77d34</a>\n- <a href=\"https://github.com/kingstar0118/MERNSocialNetwork/commit/1f720af2446d28ad7e38006ae2dea82d3bce1c34\">1f720af</a>\n- <a href=\"https://github.com/kingstar0118/MERNSocialNetwork/commit/7b968acbe080f79d24f6013c4f403e161e767663\">7b968ac</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 643 times)\n2. signed-off-by: (used 484 times)\n3. lucchetto (used 400 times)\n4. <lucchetto.tie@live.com> (used 400 times)\n5. readme.md (used 359 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AITextToVideo/commit/39ad8d628af99e3ba71def993f9b4250d100485f\">39ad8d6</a>: fixes\n- <a href=\"https://github.com/kingstar0118/AITextToVideo/commit/69848496c5825b8d1883fe9233aba97a302a38c2\">6984849</a>: fixes",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/4dbe953b36240b5b49ddc10b46ef7913c90ce9e4\">4dbe953</a>: fix: wide screen responsive issue (#31)\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/f9d7e1f16b03f40f1d43a2cf5c8ecc0d62a68263\">f9d7e1f</a>: fix: mmaudio model & refactor assetKey (#29)\n\n* fix: mmaudio model & refactor assetKey\n\n* lint\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/cbe568f59ff801cbdcba563c4847df9a4264715b\">cbe568f</a>: fix: multiple asset selection & minor refactor (#28)\n\n* fix: multiple asset selection & minor refactor\n\n* lint",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/8029c44c16472927f999d9d8898798e7a9c907b1\">8029c44</a>: fix: model category\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/bb2cccf0b3406e6326be4b1afb16138ff9c91e45\">bb2cccf</a>: fix: duration & improve make video flow\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/14c57ba107b8559703f101b0dc8bd002a5539885\">14c57ba</a>: fix: right click behaviour\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/1b887d0ad380e99bf3e15558c9bc23bfebe33255\">1b887d0</a>: fix: bottom bar layout shifting",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/4ec59a45748efb679494530374a3c86b109cfb41\">4ec59a4</a>: fix: build error\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/e6f6db75499cb8ce1d592690980ac5a564f09095\">e6f6db7</a>: fix: update bug\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/ddea5e2601844c0ea88b444eef69bb1ed8f94c49\">ddea5e2</a>: fix: build error\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/546acbc16f7d22338c415dfee4deb14e02cbb3f4\">546acbc</a>: fix: update some\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/1665dc8e607ffeeef1437c09b9198b0f91a25e9d\">1665dc8</a>: fix: update drizzle to prisma",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/b1ad2c797a230ef9e9d07bcb8ba84c05454c8937\">b1ad2c7</a>: fix: remove log\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/87d74523fc6eb88cce1aa205853377583fc57ca2\">87d7452</a>: fix: update stripe webhook\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/aa563332139279241d64035796f6aed68fe5b002\">aa56333</a>: fix: 调试\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/3b01c40196d1a8d0cba9077e294400e473e25434\">3b01c40</a>: fix: export type invalid\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/ddcbd02be821bf9dd1f898bedbd55ccdc5b9a969\">ddcbd02</a>: fix: update breakpoint\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/2a651472a3f8eb829563c43fc72ff6fbf0c88e7f\">2a65147</a>: fix: update route & history page",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/995096dc6e53a8ff86a655a4d7adc4cb802ecb61\">995096d</a>: fix: update index page\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/59d5006eaabae3b115667508207437c781a77138\">59d5006</a>: fix: 完成首页\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/baeb3bc24e81cb07fbb477028edfffccd759570a\">baeb3bc</a>: fix: loading message\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/aca4d2307a6cf6371a30736a4aebdb682f24306b\">aca4d23</a>: fix: app locale update\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/37f2c48726cf0793bb46433862340f71b5db8392\">37f2c48</a>: fix: 更新 metadata\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/cfe2df27d4c803e43be70ab72935671e33cacf4c\">cfe2df2</a>: fix: update hooks & error placeholder\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/7c9c6012a79510971602cd51fc3d72634c59cfd2\">7c9c601</a>: fix: update style\n- <a href=\"https://github.com/kingstar0118/AINextMoney/commit/2bdc5680acc748118956eca7f4fcc2772d363c92\">2bdc568</a>: fix: remove log",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/ab097d0b031b3c043331a1f05acf1b618705a03f\">ab097d0</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/629f46d7fec1a8a9f979fd61dccf64a34bb85790\">629f46d</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/897b57d3694241370d093a261ec20396c8da2562\">897b57d</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AISuperVideoResolution/commit/ceb0cfcaf638345a382f69e166662595693598d2\">ceb0cfc</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AISuperVideoResolution/commit/ceb0cfcaf638345a382f69e166662595693598d2\">ceb0cfc</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIAlbumCreator/commit/a1af0f959d5875ceb374dd79db113b139802e340\">a1af0f9</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/17425e1b4bc1c4be8afd694e76f8a6a765645dbe\">17425e1</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/5ec6cf63df9bebf097b087c112bef0da9a400e25\">5ec6cf6</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/3e394d68532ec74b8e84fef3f533f28cbbafe323\">3e394d6</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/a8744301e073511179821ce76c62597ced522072\">a874430</a>\n- <a href=\"https://github.com/kingstar0118/MERNBoilerplate/commit/b9d9b2c19b786fe6e8446479a93f996b4dc9b0fd\">b9d9b2c</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 56 my own repositories.",
+    "body": "- <a href=\"https://github.com/kingstar0118/MERNPortfolio\">kingstar0118/MERNPortfolio</a>\n- <a href=\"https://github.com/kingstar0118/MERNMediaStream\">kingstar0118/MERNMediaStream</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp\">kingstar0118/MERNBlogApp</a>\n- <a href=\"https://github.com/kingstar0118/kingstar0118\">kingstar0118/kingstar0118</a>\n- <a href=\"https://github.com/kingstar0118/LearnMERN\">kingstar0118/LearnMERN</a>\n- <a href=\"https://github.com/kingstar0118/MERNBookStore\">kingstar0118/MERNBookStore</a>\n- <a href=\"https://github.com/kingstar0118/MERNShopping\">kingstar0118/MERNShopping</a>\n- <a href=\"https://github.com/kingstar0118/MERNMovie\">kingstar0118/MERNMovie</a>\n- <a href=\"https://github.com/kingstar0118/MERNSocialNetwork\">kingstar0118/MERNSocialNetwork</a>\n- <a href=\"https://github.com/kingstar0118/MERNAIChatBot\">kingstar0118/MERNAIChatBot</a>\n- <a href=\"https://github.com/kingstar0118/MERNBookApp\">kingstar0118/MERNBookApp</a>\n- <a href=\"https://github.com/kingstar0118/MERNECommerce\">kingstar0118/MERNECommerce</a>\n- <a href=\"https://github.com/kingstar0118/MernAIImage\">kingstar0118/MernAIImage</a>\n- <a href=\"https://github.com/kingstar0118/EmojiCSS\">kingstar0118/EmojiCSS</a>\n- <a href=\"https://github.com/kingstar0118/BlogSite\">kingstar0118/BlogSite</a>\n- <a href=\"https://github.com/kingstar0118/MERNProjects\">kingstar0118/MERNProjects</a>\n- <a href=\"https://github.com/kingstar0118/UniversityManagementSystem\">kingstar0118/UniversityManagementSystem</a>\n- <a href=\"https://github.com/kingstar0118/MasterCrewaiCourse\">kingstar0118/MasterCrewaiCourse</a>\n- <a href=\"https://github.com/kingstar0118/ScrollKeeper\">kingstar0118/ScrollKeeper</a>\n- <a href=\"https://github.com/kingstar0118/MojoLearning\">kingstar0118/MojoLearning</a>\n- <a href=\"https://github.com/kingstar0118/ArtOfNote\">kingstar0118/ArtOfNote</a>\n- <a href=\"https://github.com/kingstar0118/hackRSC\">kingstar0118/hackRSC</a>\n- <a href=\"https://github.com/kingstar0118/MERNBusApp\">kingstar0118/MERNBusApp</a>\n- <a href=\"https://github.com/kingstar0118/MERNChatGPT\">kingstar0118/MERNChatGPT</a>\n- <a href=\"https://github.com/kingstar0118/MERNCrashGambling\">kingstar0118/MERNCrashGambling</a>\n- <a href=\"https://github.com/kingstar0118/MERNEmplyoeeManagement\">kingstar0118/MERNEmplyoeeManagement</a>\n- <a href=\"https://github.com/kingstar0118/MERNRestaurantReservation\">kingstar0118/MERNRestaurantReservation</a>\n- <a href=\"https://github.com/kingstar0118/MERNGraphqlChat\">kingstar0118/MERNGraphqlChat</a>\n- <a href=\"https://github.com/kingstar0118/MERNChatGPT2\">kingstar0118/MERNChatGPT2</a>\n- <a href=\"https://github.com/kingstar0118/MERNHospitalManagement\">kingstar0118/MERNHospitalManagement</a>\n- <a href=\"https://github.com/kingstar0118/MERNRoadMap\">kingstar0118/MERNRoadMap</a>\n- <a href=\"https://github.com/kingstar0118/MERNMediaStream2\">kingstar0118/MERNMediaStream2</a>\n- <a href=\"https://github.com/kingstar0118/MERNELearning\">kingstar0118/MERNELearning</a>\n- <a href=\"https://github.com/kingstar0118/MERNLMS\">kingstar0118/MERNLMS</a>\n- <a href=\"https://github.com/kingstar0118/MERNBoilerplate\">kingstar0118/MERNBoilerplate</a>\n- <a href=\"https://github.com/kingstar0118/AIImageOperator\">kingstar0118/AIImageOperator</a>\n- <a href=\"https://github.com/kingstar0118/MERNHotelManagement\">kingstar0118/MERNHotelManagement</a>\n- <a href=\"https://github.com/kingstar0118/AISuperImage\">kingstar0118/AISuperImage</a>\n- <a href=\"https://github.com/kingstar0118/AIWokersImagePlayground\">kingstar0118/AIWokersImagePlayground</a>\n- <a href=\"https://github.com/kingstar0118/AIAlbumCreator\">kingstar0118/AIAlbumCreator</a>\n- <a href=\"https://github.com/kingstar0118/AINextMoney\">kingstar0118/AINextMoney</a>\n- <a href=\"https://github.com/kingstar0118/AISaaS\">kingstar0118/AISaaS</a>\n- <a href=\"https://github.com/kingstar0118/AIImageGenBot\">kingstar0118/AIImageGenBot</a>\n- <a href=\"https://github.com/kingstar0118/AITextToImage\">kingstar0118/AITextToImage</a>\n- <a href=\"https://github.com/kingstar0118/AIImageSearch\">kingstar0118/AIImageSearch</a>\n- <a href=\"https://github.com/kingstar0118/AIAutoVideoGenerator\">kingstar0118/AIAutoVideoGenerator</a>\n- <a href=\"https://github.com/kingstar0118/AI2DTo3D\">kingstar0118/AI2DTo3D</a>\n- <a href=\"https://github.com/kingstar0118/AIInfiniteZoom\">kingstar0118/AIInfiniteZoom</a>\n- <a href=\"https://github.com/kingstar0118/AIHumanFaceSketch\">kingstar0118/AIHumanFaceSketch</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit\">kingstar0118/AIVideoStartKit</a>\n- <a href=\"https://github.com/kingstar0118/AIImageArt\">kingstar0118/AIImageArt</a>\n- <a href=\"https://github.com/kingstar0118/AIMVGenerator\">kingstar0118/AIMVGenerator</a>\n- <a href=\"https://github.com/kingstar0118/AITextToVideo\">kingstar0118/AITextToVideo</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoSearch\">kingstar0118/AIVideoSearch</a>\n- <a href=\"https://github.com/kingstar0118/AISuperVideoResolution\">kingstar0118/AISuperVideoResolution</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoAnalysis\">kingstar0118/AIVideoAnalysis</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/kingstar0118/EmojiCSS\">kingstar0118/EmojiCSS: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MernAIImage\">kingstar0118/MernAIImage: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNECommerce\">kingstar0118/MERNECommerce: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNBookApp\">kingstar0118/MERNBookApp: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNAIChatBot\">kingstar0118/MERNAIChatBot: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNSocialNetwork\">kingstar0118/MERNSocialNetwork: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNMovie\">kingstar0118/MERNMovie: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNShopping\">kingstar0118/MERNShopping: ★3</a>\n* <a href=\"https://github.com/kingstar0118/MERNBookStore\">kingstar0118/MERNBookStore: ★2</a>\n* <a href=\"https://github.com/kingstar0118/LearnMERN\">kingstar0118/LearnMERN: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNBlogApp\">kingstar0118/MERNBlogApp: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNPortfolio\">kingstar0118/MERNPortfolio: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNMediaStream\">kingstar0118/MERNMediaStream: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNBusApp\">kingstar0118/MERNBusApp: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNBoilerplate\">kingstar0118/MERNBoilerplate: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNLMS\">kingstar0118/MERNLMS: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNELearning\">kingstar0118/MERNELearning: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNRoadMap\">kingstar0118/MERNRoadMap: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNMediaStream2\">kingstar0118/MERNMediaStream2: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNGraphqlChat\">kingstar0118/MERNGraphqlChat: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNChatGPT2\">kingstar0118/MERNChatGPT2: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNHospitalManagement\">kingstar0118/MERNHospitalManagement: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNRestaurantReservation\">kingstar0118/MERNRestaurantReservation: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNEmplyoeeManagement\">kingstar0118/MERNEmplyoeeManagement: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNCrashGambling\">kingstar0118/MERNCrashGambling: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNChatGPT\">kingstar0118/MERNChatGPT: ★2</a>\n* <a href=\"https://github.com/kingstar0118/MERNHotelManagement\">kingstar0118/MERNHotelManagement: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIImageOperator\">kingstar0118/AIImageOperator: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AISuperImage\">kingstar0118/AISuperImage: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIAlbumCreator\">kingstar0118/AIAlbumCreator: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AINextMoney\">kingstar0118/AINextMoney: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIWokersImagePlayground\">kingstar0118/AIWokersImagePlayground: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AISaaS\">kingstar0118/AISaaS: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIImageSearch\">kingstar0118/AIImageSearch: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIImageGenBot\">kingstar0118/AIImageGenBot: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AITextToImage\">kingstar0118/AITextToImage: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIAutoVideoGenerator\">kingstar0118/AIAutoVideoGenerator: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIMVGenerator\">kingstar0118/AIMVGenerator: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AI2DTo3D\">kingstar0118/AI2DTo3D: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIInfiniteZoom\">kingstar0118/AIInfiniteZoom: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIHumanFaceSketch\">kingstar0118/AIHumanFaceSketch: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIImageArt\">kingstar0118/AIImageArt: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIVideoStartKit\">kingstar0118/AIVideoStartKit: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AITextToVideo\">kingstar0118/AITextToVideo: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIVideoSearch\">kingstar0118/AIVideoSearch: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AISuperVideoResolution\">kingstar0118/AISuperVideoResolution: ★2</a>\n* <a href=\"https://github.com/kingstar0118/AIVideoAnalysis\">kingstar0118/AIVideoAnalysis: ★2</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoSearch/commit/a0c611d008d1367fc12252fab3fa6b4c3d282777\">a0c611d</a>\n- <a href=\"https://github.com/kingstar0118/AITextToVideo/commit/afd04af269a5cf6353fda4474c9edd7179c9d7eb\">afd04af</a>\n- <a href=\"https://github.com/kingstar0118/AITextToVideo/commit/e766a9e1272958b6df2907fe0277be05420d078e\">e766a9e</a>\n- <a href=\"https://github.com/kingstar0118/AITextToVideo/commit/3e8f0d4808980691a9e86a54963772865ea578c2\">3e8f0d4</a>\n- <a href=\"https://github.com/kingstar0118/MERNRoadMap/commit/ed5b0105e4d6c2e05877434437a59fe9c60fc9bc\">ed5b010</a>\n- <a href=\"https://github.com/kingstar0118/MERNELearning/commit/ed5b0105e4d6c2e05877434437a59fe9c60fc9bc\">ed5b010</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/01724b630ca1ac7734fca803facfe7b4ff6a50b6\">01724b6</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/b4f86e80b0d7f1c3703277a7dec1afaf18b0186c\">b4f86e8</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/f99540e9103a93d09d4adcc5e3b36d85c894b490\">f99540e</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/a5a006e25587e233cda5d41cce7a6614411672d9\">a5a006e</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/c6fa4651a20582ba8f8f74b8826ad7370c82824d\">c6fa465</a>\n- <a href=\"https://github.com/kingstar0118/MERNBlogApp/commit/87cf4aa5969d466a02947c77dfd359bd4c37c90c\">87cf4aa</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/3b771eeaefc6a959fb60013876886ac3f80540c0\">3b771ee</a>\n- <a href=\"https://github.com/kingstar0118/AITextToVideo/commit/92a9dc33d18ec5c2e3055fdf77304ccf6d402164\">92a9dc3</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/d7b267edfd99ce2baad6e1623b7750c09e12e982\">d7b267e</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/a697196ad3a760db8b7001cfa26eba59f25a5dc2\">a697196</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/b4b35b2cb2dbfcc68207a34f8cb21fd53a54f7bc\">b4b35b2</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoStartKit/commit/db9cb79279c8b5ede56a4d0ec6942fada6ce98b0\">db9cb79</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/kingstar0118/AIVideoSearch/commit/2f312bd92f6b2ea8fd7e322a9fd418aac41d1a39\">2f312bd</a>\n- <a href=\"https://github.com/kingstar0118/AIVideoSearch/commit/4ce3188a9f4adc689a2b2e39f55df196b4dd06b5\">4ce3188</a>\n- <a href=\"https://github.com/kingstar0118/MERNHotelManagement/commit/2c3d7ef8520288c53c2e6f9d90379d30350367ca\">2c3d7ef</a>\n- <a href=\"https://github.com/kingstar0118/MERNSocialNetwork/commit/47ad20dba868db6872745b545014dc80972d602b\">47ad20d</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
