@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/kingstar0118/hackRSC/commit/aa281f9d9c65eca65049115de62f4349ad59607a"><strong>a</strong>a281f9d9c65eca65049115de62f4349ad59607a</a>
+- <a href="https://github.com/kingstar0118/kingstar0118/commit/a10e3cfb7de47bc1a3063083604fd9568cd06051"><strong>a</strong>10e3cfb7de47bc1a3063083604fd9568cd06051</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

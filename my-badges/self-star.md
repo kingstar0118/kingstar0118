@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 56 my own repositories." title="I&apos;ve starred 56 my own repositories." width="128">
-<strong>I&apos;ve starred 56 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 55 my own repositories." title="I&apos;ve starred 55 my own repositories." width="128">
+<strong>I&apos;ve starred 55 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/kingstar0118/MERNPortfolio">kingstar0118/MERNPortfolio</a>
@@ -22,7 +22,6 @@
 - <a href="https://github.com/kingstar0118/MasterCrewaiCourse">kingstar0118/MasterCrewaiCourse</a>
 - <a href="https://github.com/kingstar0118/ScrollKeeper">kingstar0118/ScrollKeeper</a>
 - <a href="https://github.com/kingstar0118/MojoLearning">kingstar0118/MojoLearning</a>
-- <a href="https://github.com/kingstar0118/ArtOfNote">kingstar0118/ArtOfNote</a>
 - <a href="https://github.com/kingstar0118/hackRSC">kingstar0118/hackRSC</a>
 - <a href="https://github.com/kingstar0118/MERNBusApp">kingstar0118/MERNBusApp</a>
 - <a href="https://github.com/kingstar0118/MERNChatGPT">kingstar0118/MERNChatGPT</a>

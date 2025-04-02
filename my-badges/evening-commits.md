@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/kingstar0118/kingstar0118/commit/936b2280824acbedca455edc6024ec470c544d05">936b228</a>
+- <a href="https://github.com/kingstar0118/kingstar0118/commit/86b4a1d1b4f3ee26bb751e54fd47f3c7b284d2b8">86b4a1d</a>
+- <a href="https://github.com/kingstar0118/kingstar0118/commit/a10e3cfb7de47bc1a3063083604fd9568cd06051">a10e3cf</a>
+- <a href="https://github.com/kingstar0118/kingstar0118/commit/739bb5bdb2efb436cbcc6f00e499a0cce51fe260">739bb5b</a>
+- <a href="https://github.com/kingstar0118/kingstar0118/commit/6f3c937a424a22cd0cecee66e862b191f91cdb4f">6f3c937</a>
 - <a href="https://github.com/kingstar0118/AIVideoStartKit/commit/3b771eeaefc6a959fb60013876886ac3f80540c0">3b771ee</a>
-- <a href="https://github.com/kingstar0118/AITextToVideo/commit/92a9dc33d18ec5c2e3055fdf77304ccf6d402164">92a9dc3</a>
-- <a href="https://github.com/kingstar0118/AIVideoStartKit/commit/d7b267edfd99ce2baad6e1623b7750c09e12e982">d7b267e</a>
-- <a href="https://github.com/kingstar0118/AIVideoStartKit/commit/a697196ad3a760db8b7001cfa26eba59f25a5dc2">a697196</a>
-- <a href="https://github.com/kingstar0118/AIVideoStartKit/commit/b4b35b2cb2dbfcc68207a34f8cb21fd53a54f7bc">b4b35b2</a>
-- <a href="https://github.com/kingstar0118/AIVideoStartKit/commit/db9cb79279c8b5ede56a4d0ec6942fada6ce98b0">db9cb79</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
