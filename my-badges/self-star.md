@@ -1,8 +1,7 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 55 my own repositories." title="I&apos;ve starred 55 my own repositories." width="128">
-<strong>I&apos;ve starred 55 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 53 my own repositories." title="I&apos;ve starred 53 my own repositories." width="128">
+<strong>I&apos;ve starred 53 my own repositories.</strong>
 <br><br>
 
-- <a href="https://github.com/kingstar0118/MERNPortfolio">kingstar0118/MERNPortfolio</a>
 - <a href="https://github.com/kingstar0118/MERNMediaStream">kingstar0118/MERNMediaStream</a>
 - <a href="https://github.com/kingstar0118/MERNBlogApp">kingstar0118/MERNBlogApp</a>
 - <a href="https://github.com/kingstar0118/kingstar0118">kingstar0118/kingstar0118</a>
@@ -26,7 +25,6 @@
 - <a href="https://github.com/kingstar0118/MERNBusApp">kingstar0118/MERNBusApp</a>
 - <a href="https://github.com/kingstar0118/MERNChatGPT">kingstar0118/MERNChatGPT</a>
 - <a href="https://github.com/kingstar0118/MERNCrashGambling">kingstar0118/MERNCrashGambling</a>
-- <a href="https://github.com/kingstar0118/MERNEmplyoeeManagement">kingstar0118/MERNEmplyoeeManagement</a>
 - <a href="https://github.com/kingstar0118/MERNRestaurantReservation">kingstar0118/MERNRestaurantReservation</a>
 - <a href="https://github.com/kingstar0118/MERNGraphqlChat">kingstar0118/MERNGraphqlChat</a>
 - <a href="https://github.com/kingstar0118/MERNChatGPT2">kingstar0118/MERNChatGPT2</a>
