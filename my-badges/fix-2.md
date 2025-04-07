@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/kingstar0118/AITextToVideo/commit/39ad8d628af99e3ba71def993f9b4250d100485f">39ad8d6</a>: fixes
-- <a href="https://github.com/kingstar0118/AITextToVideo/commit/69848496c5825b8d1883fe9233aba97a302a38c2">6984849</a>: fixes
+- <a href="https://github.com/kingstar0118/AIHeyGenClone/commit/b53bfe3b969524659cfd294fc78bb8a8f5d13331">b53bfe3</a>: Fix for speech changer
+- <a href="https://github.com/kingstar0118/AIHeyGenClone/commit/7b1946534697b7b62e97d35d615dd71560a6d395">7b19465</a>: Fix for speech changer
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

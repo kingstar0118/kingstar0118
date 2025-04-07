@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. update (used 655 times)
+1. update (used 730 times)
 2. signed-off-by: (used 484 times)
-3. lucchetto (used 400 times)
-4. <lucchetto.tie@live.com> (used 400 times)
-5. readme.md (used 370 times)
+3. readme.md (used 431 times)
+4. lucchetto (used 400 times)
+5. <lucchetto.tie@live.com> (used 400 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
